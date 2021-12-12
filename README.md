@@ -8,6 +8,10 @@ Forsaken Odyssey is a progressive kitchensink (just like GTNH) modpack. It mainl
 
 Currently, this modpack is still at an early stage of development. And the majority of its planned content is still under construction, thus, not ready for giving continuous and satisfactory gameplay. Content planned to show up in tiers 0, 1, 2 is nearly done, but still needs some polishing.
 
+## Installation
+
+This pack is still far from done. If you want to try it out or help with developing it, you can just clone this repository and then use launchers such as MultiMC to import the modpack. 
+
 ## What does this pack have to offer?
 
 *This part of README file is under construction.*
