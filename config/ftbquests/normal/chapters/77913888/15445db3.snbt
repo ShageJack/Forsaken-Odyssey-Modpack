@@ -1,0 +1,14 @@
+{
+	x: 5.0d,
+	y: -1.5d,
+	dependencies: [
+		"fedae7e7"
+	],
+	tasks: [{
+		uid: "e09ae916",
+		type: "item",
+		items: [{
+			item: "minecraft:lead"
+		}]
+	}]
+}

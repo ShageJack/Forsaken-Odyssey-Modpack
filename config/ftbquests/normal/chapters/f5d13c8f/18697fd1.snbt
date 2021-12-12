@@ -1,0 +1,15 @@
+{
+	x: 1.0d,
+	y: 7.5d,
+	dependencies: [
+		"8a0b83bd",
+		"064b7d0c"
+	],
+	tasks: [{
+		uid: "942c6e13",
+		type: "item",
+		items: [{
+			item: "shagecraft:mechanic.bronze_tube"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -1.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "39cfb6b9",
+		type: "item",
+		items: [{
+			item: "primal:hide_raw"
+		}]
+	}]
+}

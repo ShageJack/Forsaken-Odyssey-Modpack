@@ -1,0 +1,16 @@
+{
+	title: "天然碱",
+	x: 15.5d,
+	y: -5.0d,
+	shape: "rsquare",
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "bbd8363c",
+		type: "item",
+		items: [{
+			item: "shagecraft:dust_sodium_carbonate"
+		}]
+	}]
+}

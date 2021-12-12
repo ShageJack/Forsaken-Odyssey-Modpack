@@ -1,0 +1,16 @@
+{
+	x: 6.5d,
+	y: 2.0d,
+	dependencies: [
+		"3279d741",
+		"93fb59eb",
+		"5a89aef4"
+	],
+	tasks: [{
+		uid: "e4fe01d3",
+		type: "item",
+		items: [{
+			item: "primal:adobe_brick_dry"
+		}]
+	}]
+}

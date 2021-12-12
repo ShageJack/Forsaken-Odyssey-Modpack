@@ -1,0 +1,21 @@
+{
+	title: "锡青铜",
+	x: 14.5d,
+	y: -1.5d,
+	shape: "gear",
+	text: [
+		""
+	],
+	dependencies: [
+		"65699c94",
+		"6899913f"
+	],
+	size: 1.8d,
+	tasks: [{
+		uid: "8b69bcdf",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ingottinbronze"
+		}]
+	}]
+}

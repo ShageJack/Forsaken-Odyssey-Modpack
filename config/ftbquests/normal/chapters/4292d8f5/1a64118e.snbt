@@ -1,0 +1,18 @@
+{
+	x: 3.5d,
+	y: -3.0d,
+	shape: "rsquare",
+	optional: true,
+	tasks: [{
+		uid: "6c7abc4d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "harvestcraft:queenbeeitem"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

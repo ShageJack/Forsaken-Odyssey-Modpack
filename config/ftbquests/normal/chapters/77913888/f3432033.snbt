@@ -1,0 +1,14 @@
+{
+	x: 9.0d,
+	y: -1.5d,
+	dependencies: [
+		"7aea4473"
+	],
+	tasks: [{
+		uid: "f61be895",
+		type: "item",
+		items: [{
+			item: "contenttweaker:fineflintpowder"
+		}]
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: 0.5d,
+	y: 1.5d,
+	tasks: [{
+		uid: "f3be2113",
+		type: "item",
+		items: [{
+			item: "contenttweaker:ingotcopper"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	icon: "minecraft:stonebrick 1 2",
+	x: 3.5d,
+	y: 0.5d,
+	dependencies: [
+		"a2208722"
+	],
+	tasks: [{
+		uid: "2cf5ee33",
+		type: "checkmark",
+		title: "遗迹"
+	}]
+}

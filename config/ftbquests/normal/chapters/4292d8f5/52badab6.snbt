@@ -1,0 +1,14 @@
+{
+	x: 11.5d,
+	y: -0.5d,
+	dependencies: [
+		"27f8c884"
+	],
+	tasks: [{
+		uid: "e58203ae",
+		type: "item",
+		items: [{
+			item: "minecraft:flint"
+		}]
+	}]
+}

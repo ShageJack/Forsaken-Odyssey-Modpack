@@ -1,0 +1,11 @@
+{
+	x: 1.5d,
+	y: 0.0d,
+	tasks: [{
+		uid: "9f97b81a",
+		type: "item",
+		items: [{
+			item: "firstaid:morphine"
+		}]
+	}]
+}

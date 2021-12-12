@@ -1,0 +1,14 @@
+{
+	x: 12.0d,
+	y: 0.0d,
+	dependencies: [
+		"c21a279f"
+	],
+	tasks: [{
+		uid: "66f5dc34",
+		type: "item",
+		items: [{
+			item: "primal:charcoal_fair"
+		}]
+	}]
+}

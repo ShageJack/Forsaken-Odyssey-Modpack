@@ -1,0 +1,15 @@
+{
+	title: "M1 理智的余烬",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "abyssalcraft:necronomicon_dre",
+		tag: {
+			PotEnergy: 0.0f
+		}
+	},
+	always_invisible: false,
+	group: -184831202,
+	default_quest_shape: ""
+}

@@ -1,0 +1,14 @@
+{
+	x: 2.0d,
+	y: -3.0d,
+	dependencies: [
+		"39935fb7"
+	],
+	tasks: [{
+		uid: "66b69ff3",
+		type: "item",
+		items: [{
+			item: "immcraft:chest"
+		}]
+	}]
+}

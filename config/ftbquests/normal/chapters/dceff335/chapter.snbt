@@ -1,0 +1,16 @@
+{
+	title: "P-P 原油化工",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "forge:bucketfilled",
+		tag: {
+			FluidName: "oil",
+			Amount: 1000
+		}
+	},
+	always_invisible: false,
+	group: -1092739539,
+	default_quest_shape: ""
+}

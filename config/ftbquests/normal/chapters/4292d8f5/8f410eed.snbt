@@ -1,0 +1,18 @@
+{
+	title: "简易工作台",
+	x: -4.0d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"2775d3b8"
+	],
+	tasks: [{
+		uid: "ce570bab",
+		type: "item",
+		items: [{
+			item: "buildcraftfactory:autoworkbench_item"
+		}]
+	}]
+}

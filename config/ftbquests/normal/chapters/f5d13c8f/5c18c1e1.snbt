@@ -1,0 +1,14 @@
+{
+	x: -1.5d,
+	y: 3.0d,
+	dependencies: [
+		"df2964bb"
+	],
+	tasks: [{
+		uid: "869c9d1d",
+		type: "item",
+		items: [{
+			item: "buildcraftcore:gear_stone"
+		}]
+	}]
+}

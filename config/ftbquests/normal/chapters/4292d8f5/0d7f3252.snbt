@@ -1,0 +1,14 @@
+{
+	x: 3.0d,
+	y: 4.0d,
+	dependencies: [
+		"a86a9abf"
+	],
+	tasks: [{
+		uid: "de7aed34",
+		type: "item",
+		items: [{
+			item: "primal:wood_pin"
+		}]
+	}]
+}

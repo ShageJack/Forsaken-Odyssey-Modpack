@@ -1,0 +1,7 @@
+{
+	title: "P-M 矿物工程",
+	icon: "gregtech:machine 1 63",
+	always_invisible: false,
+	group: -1092739539,
+	default_quest_shape: ""
+}

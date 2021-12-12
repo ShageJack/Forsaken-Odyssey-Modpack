@@ -1,0 +1,15 @@
+{
+	x: 14.5d,
+	y: 1.0d,
+	dependencies: [
+		"e72ae4b2",
+		"2ec848ac"
+	],
+	tasks: [{
+		uid: "b85a3bb3",
+		type: "item",
+		items: [{
+			item: "minecraft:brick_block"
+		}]
+	}]
+}

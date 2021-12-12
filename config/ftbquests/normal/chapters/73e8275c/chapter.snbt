@@ -1,0 +1,7 @@
+{
+	title: "E1 旧世界的遗产",
+	icon: "chisel:laboratory 1 15",
+	always_invisible: false,
+	group: -553720433,
+	default_quest_shape: ""
+}

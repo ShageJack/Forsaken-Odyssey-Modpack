@@ -1,0 +1,31 @@
+{
+	x: 9.0d,
+	y: -2.5d,
+	dependencies: [
+		"01cce22d"
+	],
+	tasks: [{
+		uid: "aeee7820",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6870700458508444599L,
+					AS_Amulet_HolderMost: -334098857426205504L
+				}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					MaxDurability: 80,
+					DigSpeed: 6.0f,
+					AttackDamage: 2.0f,
+					Material: "flint",
+					HarvestLevel: 1
+				}
+			},
+			Damage: 12s
+		}],
+		ignore_nbt: 1b
+	}]
+}

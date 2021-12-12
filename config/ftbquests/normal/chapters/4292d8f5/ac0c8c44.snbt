@@ -1,0 +1,11 @@
+{
+	x: -0.5d,
+	y: 3.0d,
+	tasks: [{
+		uid: "77c663e9",
+		type: "item",
+		items: [{
+			item: "primal:plant_fiber"
+		}]
+	}]
+}

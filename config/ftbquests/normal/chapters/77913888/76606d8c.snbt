@@ -1,0 +1,29 @@
+{
+	title: "手推石磨",
+	x: 2.0d,
+	y: 1.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"6051e80b"
+	],
+	tasks: [{
+		uid: "f7550efc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "quern",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any quern"
+				}
+			}
+		}]
+	}]
+}

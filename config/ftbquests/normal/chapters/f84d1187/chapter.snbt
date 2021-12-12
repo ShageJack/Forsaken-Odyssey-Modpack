@@ -1,0 +1,7 @@
+{
+	title: "S1 深空探索",
+	icon: "advancedrocketry:warpmonitor",
+	always_invisible: false,
+	group: -462440279,
+	default_quest_shape: ""
+}
