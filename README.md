@@ -12,12 +12,24 @@ Currently, this modpack is still at an early stage of development. And the major
 
 *This part of README file is under construction.*
 
+***Story***
+
+Different from most other modpack, Forsaken Odyssey has a complicated and grand background story, which is blended into gameplay in many ways. We attempt to describe a dead world that used to be vibrant, full of contradictions and struggles, misery and pain, dramatic conflicts and even multiple revolutions, while players are silent observers to all happenings that now have been meaningless. They have faded away, covered with weeds, erased by the might of nature, only whose scars remained. 
+
+We are just narrators. We can imply our own idea or maybe ideology in our stories, but the true message of the story will only emerge in the flood of reflection, which belongs to you people, the audience.
+
+***Survival***
+
+The earth was cursed and cities were doomed. Water in the rivers releases a dirty smell of dying and inevitable radiation on the surface could be fatal... If we put aside those zombies haunting and weird creatures feasting, you could also die from thirst, hunger, hypothermia or heatstroke. Luckily, you will never actually be dead (unless you play this modpack in hardcore mode, then god bless you). The universe, is fundamentally brutal, and you shall find your path to survive.
+
+Be aware of the ruins, the legacy of the old world, in garbage dumps, and among dilapidated buildings, still, there will be something essential for your new life here yet has not decayed. For example, foods, clean water and RadAway, a medcine to remove accumulated radiation effect.
+
+The nature regeneration, magical recovery in vanilla minecraft is no where to see. You need bandages and first-aid kit to heal yourself. Use morphine to  kill pain, but be careful not to make that a suicide act.
+
 ***Technology***
 
 ***Magic***
 
 ***Exploration***
-
-***Survival***
 
 ***Questing***
