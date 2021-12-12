@@ -20,7 +20,7 @@ We are just narrators. We can imply our own idea or maybe ideology in our storie
 
 ***Survival***
 
-The earth was cursed and cities were doomed. Water in the rivers releases a dirty smell of dying and inevitable radiation on the surface could be fatal... If we put aside those zombies haunting and weird creatures feasting, you could also die from thirst, hunger, hypothermia, or heatstroke. Luckily, you will never actually be dead (unless you play this modpack in hardcore mode, then god bless you). The universe is fundamentally brutal, and you shall find your path to survive.
+The earth was cursed and cities were ruined. Water in the rivers releases a dirty smell of dying and inevitable radiation on the surface could be fatal... If we put aside those zombies haunting and weird creatures feasting, you could also die from thirst, hunger, hypothermia, or heatstroke. Luckily, you will never actually be dead (unless you play this modpack in hardcore mode, then god bless you). The universe is fundamentally brutal, and you shall find your path to survive.
 
 Be aware of the ruins, the legacy of the old world, in garbage dumps, and among dilapidated buildings, still, there will be something essential for your new life here yet has not decayed. For example, foods, clean water, and RadAway, a medicine to remove accumulated radiation effects.
 
