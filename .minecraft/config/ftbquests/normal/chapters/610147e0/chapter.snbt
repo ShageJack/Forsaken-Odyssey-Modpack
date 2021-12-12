@@ -1,0 +1,7 @@
+{
+	title: "T4 低压时代",
+	icon: "gregtech:meta_item_2 1 32450",
+	always_invisible: false,
+	group: -761938716,
+	default_quest_shape: ""
+}

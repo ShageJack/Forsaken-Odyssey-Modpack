@@ -1,7 +1,0 @@
-{
-	title: "巨构",
-	icon: "matteroverdrive:gravitational_anomaly",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

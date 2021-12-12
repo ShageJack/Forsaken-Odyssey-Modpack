@@ -1,7 +1,0 @@
-{
-	title: "医学复兴",
-	icon: "mw:medical_crate",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

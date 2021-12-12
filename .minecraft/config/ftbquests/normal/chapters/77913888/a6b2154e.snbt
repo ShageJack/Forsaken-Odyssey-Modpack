@@ -1,0 +1,38 @@
+{
+	title: "鞣酸",
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "primal:bucket_cinis",
+		tag: {
+			Fluid: {
+				FluidName: "tannic_acid",
+				Amount: 1000
+			}
+		}
+	},
+	x: 3.5d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"70ebe41e",
+		"53014dc3"
+	],
+	tasks: [{
+		uid: "72f4fb43",
+		type: "checkmark",
+		icon: {
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "forge:bucketfilled",
+			tag: {
+				FluidName: "tannic_acid",
+				Amount: 1000
+			}
+		}
+	}]
+}

@@ -1,7 +1,0 @@
-{
-	title: "P-N 核物理及核工程",
-	icon: "nuclearcraft:fusion_core",
-	always_invisible: false,
-	group: -1092739539,
-	default_quest_shape: ""
-}

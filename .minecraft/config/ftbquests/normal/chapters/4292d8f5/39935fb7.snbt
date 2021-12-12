@@ -1,0 +1,33 @@
+{
+	title: "痛苦的木板",
+	icon: "minecraft:planks",
+	x: 2.0d,
+	y: 0.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"49a0c72b",
+		"8f410eed",
+		"a86a9abf",
+		"fb6b57fc"
+	],
+	tasks: [{
+		uid: "667dfcfb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "plankWood",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any plankWood"
+				}
+			}
+		}]
+	}]
+}

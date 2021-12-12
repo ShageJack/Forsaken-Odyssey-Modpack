@@ -1,0 +1,14 @@
+{
+	x: 1.0d,
+	y: -3.5d,
+	dependencies: [
+		"c89c86cf"
+	],
+	tasks: [{
+		uid: "d9e53ec9",
+		type: "item",
+		items: [{
+			item: "primal_tech:work_stump"
+		}]
+	}]
+}

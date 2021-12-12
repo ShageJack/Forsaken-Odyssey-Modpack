@@ -1,0 +1,7 @@
+{
+	title: "P-I 无机化学工程",
+	icon: "gregtech:machine 1 190",
+	always_invisible: false,
+	group: -1092739539,
+	default_quest_shape: ""
+}

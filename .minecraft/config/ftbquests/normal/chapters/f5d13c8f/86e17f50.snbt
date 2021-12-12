@@ -1,0 +1,14 @@
+{
+	x: -0.5d,
+	y: 10.0d,
+	dependencies: [
+		"8a0b83bd"
+	],
+	tasks: [{
+		uid: "2adb3c96",
+		type: "item",
+		items: [{
+			item: "shagecraft:mechanic.blower"
+		}]
+	}]
+}

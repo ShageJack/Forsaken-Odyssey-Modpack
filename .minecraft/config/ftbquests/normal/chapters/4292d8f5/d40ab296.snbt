@@ -1,0 +1,17 @@
+{
+	x: 3.5d,
+	y: -1.5d,
+	shape: "rsquare",
+	dependencies: [
+		"39935fb7",
+		"1a64118e"
+	],
+	optional: true,
+	tasks: [{
+		uid: "e54313bd",
+		type: "item",
+		items: [{
+			item: "harvestcraft:apiary"
+		}]
+	}]
+}

@@ -1,7 +1,0 @@
-{
-	title: "E0 废土冒险",
-	icon: "minecraft:dirt 1 2",
-	always_invisible: false,
-	group: -553720433,
-	default_quest_shape: ""
-}

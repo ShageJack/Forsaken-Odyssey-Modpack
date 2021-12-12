@@ -1,0 +1,29 @@
+{
+	title: "火盆",
+	x: 10.5d,
+	y: -0.5d,
+	text: [
+		""
+	],
+	dependencies: [
+		"46f32e9d"
+	],
+	tasks: [{
+		uid: "da9fac52",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "hibachi",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any hibachi"
+				}
+			}
+		}]
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 6.5d,
+	y: -3.5d,
+	dependencies: [
+		"13e06b76",
+		"6bef3474"
+	],
+	tasks: [{
+		uid: "aca47601",
+		type: "item",
+		items: [{
+			item: "shagecraft:cut_wrought_iron_ingot"
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+{
+	x: 5.5d,
+	y: -4.5d,
+	shape: "rsquare",
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "ba01dc5b",
+		type: "item",
+		items: [{
+			item: "primal:salt_dust_netjry"
+		}]
+	}]
+}

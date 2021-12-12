@@ -1,7 +1,0 @@
-{
-	title: "T2 冶金时代",
-	icon: "forestry:ingot_bronze",
-	always_invisible: false,
-	group: -761938716,
-	default_quest_shape: "circle"
-}

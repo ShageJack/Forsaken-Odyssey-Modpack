@@ -1,0 +1,14 @@
+{
+	x: 2.5d,
+	y: 13.0d,
+	dependencies: [
+		"84bcc7b3"
+	],
+	tasks: [{
+		uid: "1877119e",
+		type: "item",
+		items: [{
+			item: "shagecraft:gloves"
+		}]
+	}]
+}

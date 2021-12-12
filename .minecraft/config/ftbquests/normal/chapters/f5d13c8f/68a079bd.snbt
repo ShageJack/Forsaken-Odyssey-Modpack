@@ -1,0 +1,19 @@
+{
+	x: -1.5d,
+	y: -3.5d,
+	dependencies: [
+		"df2964bb"
+	],
+	tasks: [{
+		uid: "401fef03",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "shagecraft:saw"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

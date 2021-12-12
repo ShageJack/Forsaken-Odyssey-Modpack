@@ -1,7 +1,0 @@
-{
-	title: "T9 量子时代",
-	icon: "gregtech:machine 1 3237",
-	always_invisible: false,
-	group: -761938716,
-	default_quest_shape: ""
-}

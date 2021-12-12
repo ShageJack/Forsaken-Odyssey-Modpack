@@ -1,0 +1,7 @@
+{
+	title: "T7 原子时代",
+	icon: "gregtech:machine 1 2545",
+	always_invisible: false,
+	group: -761938716,
+	default_quest_shape: ""
+}

@@ -1,0 +1,27 @@
+{
+	x: -5.5d,
+	y: -1.0d,
+	dependencies: [
+		"afd6b493"
+	],
+	tasks: [{
+		uid: "b7151c5a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {
+					AS_Amulet_HolderLeast: -6870700458508444599L,
+					AS_Amulet_HolderMost: -334098857426205504L
+				}
+			},
+			id: "gregtech:meta_tool",
+			tag: {
+				GT.ToolStats: {
+					Material: "bronze"
+				}
+			},
+			Damage: 9s
+		}],
+		ignore_nbt: 1b
+	}]
+}

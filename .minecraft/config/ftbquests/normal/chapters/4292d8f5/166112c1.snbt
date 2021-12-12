@@ -1,0 +1,21 @@
+{
+	x: 14.5d,
+	y: -0.5d,
+	shape: "gear",
+	dependencies: [
+		"52badab6"
+	],
+	size: 1.8d,
+	tasks: [{
+		uid: "76f5307a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "primal:flint_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

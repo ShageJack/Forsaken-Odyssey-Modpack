@@ -1,0 +1,211 @@
+
+# Created by Ruins mod version 17.2 Ingame Parser
+# authoring Player: Shage_Jack
+
+# TEMPLATE PARAMETER SETTINGS:
+#
+# criterion expression specifying mod ids required to load template
+# may include plus (AND), minus (AND NOT), comma (OR), and parentheses
+# all required mods listed must be present; no prohibited mods can be
+requiredMods=
+#
+# likelihood this template will be chosen relative to all others
+# e.g., a weight=6 template is chosen 3X as often as one with weight=2
+weight=1
+#
+# list of dimensions in which this template may spawn, even if generic
+# one or more dimension names, separated by commas (blank = all)
+dimensionsToSpawnIn=
+#
+# list of other biomes in which this template may spawn
+# biome corresponding to directory is always assumed, listed or not
+# generic templates should leave this list empty
+biomesToSpawnIn=
+#
+# criterion expression specifying types of biome where template spawns
+# this is in addition to those explicitly listed as biomesToSpawnIn
+# generic templates should leave this list empty
+biomeTypesToSpawnIn=
+#
+# list of biomes in which this template may not spawn
+# takes precedence over biomeTypesToSpawnIn, but NOT biomesToSpawnIn
+# should be empty if biomeTypesToSpawnIn is empty
+biomesToNotSpawnIn=
+#
+# depth template is pushed down into the surface when built
+# offset is min/max range of random additional bury depth
+embed_into_distance=0
+random_height_offset=0,0
+#
+# whitelist/blacklist of block types on which template may be built
+# specify one, not both; leave the other empty (both empty = allow all)
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+#
+# size of template (#layers, #rows per layer, #blocks per row)
+dimensions=6,16,16
+#
+# max number of missing blocks allowed in surface beneath template
+allowable_overhang=0
+#
+# depth/height limit affected by terrain leveling
+# also maximum bumpiness tolerated in surface beneath template
+max_leveling=2
+#
+# padding applied to all sides of template horizontal footprint
+# expands area affected by terrain leveling (-1 = no leveling)
+leveling_buffer=0
+#
+# do not rotate template randomly when built (1 = no rotation)
+preventRotation=0
+#
+# treat water/lava blocks as air and protect them from rule0 (1 = yes)
+preserve_water=0
+preserve_lava=0
+#
+# minimum distance this template must have from instances of itself
+uniqueMinDistance=0
+#
+# min/max distances this template can be from world spawn (0 = no limit)
+# only applies to overworld--i.e., dimension 0
+spawnMinDistance=0
+spawnMaxDistance=0
+#
+# other template built nearby whenever this one is
+# syntax: <name>;<relativeX>;<maxYdifference>;<relativeZ>[;<chance>]
+# may be used more than once to specify multiple neighbors
+adjoining_template=
+
+rule1=0,100,minecraft:dirt-0
+rule2=0,100,minecraft:dirt-1
+rule3=0,100,soviet:rubbish-3
+rule4=0,100,nuclearcraft:fluid_corium-3
+rule5=0,100,chisel:factory-6
+rule6=0,100,soviet:beton_with_ralling-3
+rule7=0,100,nuclearcraft:fluid_corium-2
+rule8=0,100,soviet:beton_with_ralling-2
+rule9=0,100,chisel:technical-0
+rule10=0,100,soviet:beton_with_ralling-6
+rule11=0,100,nuclearcraft:fluid_corium-1
+rule12=0,100,chisel:technical-12
+rule13=0,100,chisel:factory-1
+rule14=0,100,chisel:factory-14
+rule15=0,100,chisel:technical-15
+rule16=0,100,soviet:rubbish-0
+rule17=0,100,nuclearcraft:fluid_corium-0
+rule18=0,100,chisel:factory-2
+
+layer
+1,1,2,2,1,2,2,1,1,2,2,2,2,2,2,1
+1,1,2,1,1,2,2,2,2,2,1,2,1,1,2,2
+2,2,1,2,1,2,1,2,1,1,2,1,1,2,1,1
+2,1,2,2,2,2,2,2,1,2,1,2,2,2,2,1
+1,2,2,1,2,1,2,1,2,2,1,1,1,2,1,2
+1,2,1,1,1,1,1,1,1,1,2,2,1,2,1,1
+2,2,2,2,1,2,2,2,2,2,1,1,2,2,1,1
+1,2,2,2,2,1,1,2,2,2,2,2,1,1,2,1
+2,1,2,1,1,1,2,1,1,1,2,1,1,2,2,2
+2,2,2,2,2,1,1,1,2,1,1,2,2,1,2,2
+2,1,2,2,2,2,1,1,1,2,2,2,1,2,1,1
+1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2
+2,1,2,1,2,2,1,1,2,1,2,2,2,2,1,2
+2,2,2,2,1,1,2,2,1,2,2,1,2,2,2,1
+2,1,2,1,2,2,2,1,1,1,2,1,2,1,1,1
+2,2,2,1,1,2,1,1,1,1,2,2,2,2,2,1
+endlayer
+
+layer
+0,0,0,0,3,3,0,0,4,0,3,3,0,0,0,0
+0,8,0,3,3,0,0,4,7,4,0,6,5,5,5,0
+0,5,10,0,3,3,4,7,11,7,4,10,9,9,5,0
+0,5,9,8,8,4,7,11,11,11,7,4,9,9,5,0
+0,5,9,9,9,7,11,11,12,12,4,9,9,9,5,0
+0,5,9,9,9,9,9,13,14,13,13,9,9,9,5,0
+0,5,9,9,9,9,14,14,14,14,9,9,9,9,5,0
+0,15,15,15,15,13,14,14,14,14,13,15,15,15,15,0
+0,15,15,15,15,13,14,14,14,13,13,15,15,15,15,0
+0,5,9,9,9,9,13,14,14,13,9,9,9,9,5,0
+0,5,9,9,9,9,9,13,13,9,9,9,9,9,5,0
+0,5,9,9,9,9,9,15,15,9,9,9,9,9,5,0
+0,5,9,9,9,9,9,15,15,9,9,9,9,9,5,0
+0,5,9,9,9,9,9,15,15,9,9,9,9,9,5,0
+0,5,5,5,5,5,5,15,15,5,5,5,5,5,5,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+endlayer
+
+layer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0
+0,0,10,0,0,0,0,0,7,0,0,0,10,0,0,0
+0,0,0,10,0,0,0,11,11,0,0,10,16,0,0,0
+0,0,0,0,0,10,14,12,11,10,10,0,0,0,0,0
+0,0,0,0,0,14,14,11,11,14,14,16,0,0,0,0
+0,0,0,0,0,12,17,18,17,17,12,0,0,0,0,0
+0,0,0,0,0,12,17,17,17,17,12,0,0,0,0,0
+0,0,0,0,0,13,13,17,17,13,13,0,0,0,0,0
+0,0,0,0,0,0,13,12,12,13,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+endlayer
+
+layer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,14,17,11,0,0,0,0,0,0,0
+0,0,0,0,0,14,14,17,11,14,14,0,0,0,0,0
+0,0,0,0,0,12,11,17,11,17,12,0,0,0,0,0
+0,0,0,0,0,12,17,11,11,17,12,0,0,0,0,0
+0,0,0,0,0,13,13,17,17,13,13,0,0,0,0,0
+0,0,0,0,0,0,13,12,12,13,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+endlayer
+
+layer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,14,8,0,0,0,0,0,0,0
+0,0,0,0,0,0,14,14,14,14,0,0,0,0,0,0
+0,0,0,0,0,14,14,0,0,14,13,0,0,0,0,0
+0,0,0,0,0,13,13,0,0,13,13,0,0,0,0,0
+0,0,0,0,0,0,13,13,13,13,0,0,0,0,0,0
+0,0,0,0,0,0,0,13,13,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+endlayer
+
+layer
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,14,14,0,0,0,0,0,0,0
+0,0,0,0,0,0,14,0,18,14,0,0,0,0,0,0
+0,0,0,0,0,0,13,18,18,13,0,0,0,0,0,0
+0,0,0,0,0,0,0,13,13,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+endlayer
+

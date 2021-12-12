@@ -1,0 +1,14 @@
+{
+	x: 8.0d,
+	y: 7.5d,
+	dependencies: [
+		"f3912b69"
+	],
+	tasks: [{
+		uid: "72a26a4b",
+		type: "item",
+		items: [{
+			item: "primal_tech:clay_kiln"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 0.5d,
+	y: 3.0d,
+	dependencies: [
+		"5c18c1e1"
+	],
+	tasks: [{
+		uid: "614db9f3",
+		type: "item",
+		items: [{
+			item: "exnihilocreatio:block_waterwheel"
+		}]
+	}]
+}

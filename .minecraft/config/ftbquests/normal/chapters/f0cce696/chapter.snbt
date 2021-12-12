@@ -1,0 +1,7 @@
+{
+	title: "S0 航天工程",
+	icon: "advancedrocketry:rocketmotor",
+	always_invisible: false,
+	group: -462440279,
+	default_quest_shape: ""
+}

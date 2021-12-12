@@ -1,0 +1,15 @@
+{
+	x: 10.0d,
+	y: -1.5d,
+	dependencies: [
+		"7aea4473",
+		"546128da"
+	],
+	tasks: [{
+		uid: "60f9e052",
+		type: "item",
+		items: [{
+			item: "primal:cinis_brick_dry"
+		}]
+	}]
+}

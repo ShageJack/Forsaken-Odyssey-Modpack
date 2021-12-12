@@ -1,7 +1,0 @@
-{
-	title: "事件的终结",
-	icon: "extendedcrafting:singularity_ultimate",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

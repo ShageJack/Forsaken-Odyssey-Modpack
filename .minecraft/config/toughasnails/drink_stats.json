@@ -1,0 +1,74 @@
+[
+  {
+    "item": {
+      "name": "minecraft:milk_bucket",
+      "metadata": 0
+    },
+    "thirst": 3,
+    "hydration": 0.0,
+    "poisonChance": 0.1
+  },
+  {
+    "item": {
+      "name": "contenttweaker:bottled_water",
+      "metadata": 0
+    },
+    "thirst": 8,
+    "hydration": 0.1,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "contenttweaker:dirty_water_bottle",
+      "metadata": 0
+    },
+    "thirst": 0,
+    "hydration": 0.0,
+    "poisonChance": 1.0
+  },
+  {
+    "item": {
+      "name": "contenttweaker:filtered_water_bottle",
+      "metadata": 0
+    },
+    "thirst": 5,
+    "hydration": 0.1,
+    "poisonChance": 0.5
+  },
+  {
+    "item": {
+      "name": "brewcraft:beachrumitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:swampmerlotitem",
+      "metadata": 0
+    },
+    "thirst": 4,
+    "hydration": 0.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:totalvodkaitem",
+      "metadata": 0
+    },
+    "thirst": 3,
+    "hydration": 0.0,
+    "poisonChance": 0.0
+  },
+  {
+    "item": {
+      "name": "brewcraft:handmadevodkaitem",
+      "metadata": 0
+    },
+    "thirst": 3,
+    "hydration": 0.0,
+    "poisonChance": 0.0
+  }
+]

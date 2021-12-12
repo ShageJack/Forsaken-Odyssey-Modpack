@@ -1,0 +1,13 @@
+{
+	x: 7.0d,
+	y: -3.0d,
+	shape: "rsquare",
+	optional: true,
+	tasks: [{
+		uid: "81dcebb4",
+		type: "item",
+		items: [{
+			item: "harvestcraft:candleberryitem"
+		}]
+	}]
+}

@@ -1,0 +1,14 @@
+{
+	x: 3.5d,
+	y: -1.5d,
+	dependencies: [
+		"a6b2154e"
+	],
+	tasks: [{
+		uid: "674407ef",
+		type: "item",
+		items: [{
+			item: "primal:leather_boiled"
+		}]
+	}]
+}

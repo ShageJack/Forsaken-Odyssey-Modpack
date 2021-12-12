@@ -1,0 +1,14 @@
+{
+	x: 18.5d,
+	y: -2.0d,
+	dependencies: [
+		"3fe9111e"
+	],
+	tasks: [{
+		uid: "4cd1b011",
+		type: "item",
+		items: [{
+			item: "tcomplement:high_oven_controller"
+		}]
+	}]
+}

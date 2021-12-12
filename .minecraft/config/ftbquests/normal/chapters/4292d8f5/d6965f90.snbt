@@ -1,0 +1,20 @@
+{
+	x: 1.0d,
+	y: 5.5d,
+	dependencies: [
+		"ac0c8c44",
+		"b336170d"
+	],
+	tasks: [{
+		uid: "d6339d02",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"astralsorcery:cap_item_amulet_holder": {}
+			},
+			id: "primal:flint_hatchet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

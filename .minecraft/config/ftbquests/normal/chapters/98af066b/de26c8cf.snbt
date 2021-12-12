@@ -1,0 +1,13 @@
+{
+	icon: "minecraft:bread",
+	x: 3.5d,
+	y: -0.5d,
+	dependencies: [
+		"a2208722"
+	],
+	tasks: [{
+		uid: "79557b56",
+		type: "checkmark",
+		title: "食物"
+	}]
+}

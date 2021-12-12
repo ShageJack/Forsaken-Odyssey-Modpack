@@ -1,0 +1,18 @@
+{
+	icon: {
+		ForgeCaps: {
+			"astralsorcery:cap_item_amulet_holder": {}
+		},
+		id: "toughasnails:water_bottle"
+	},
+	x: 3.5d,
+	y: 1.5d,
+	dependencies: [
+		"a2208722"
+	],
+	tasks: [{
+		uid: "c4f8ef20",
+		type: "checkmark",
+		title: "水资源"
+	}]
+}

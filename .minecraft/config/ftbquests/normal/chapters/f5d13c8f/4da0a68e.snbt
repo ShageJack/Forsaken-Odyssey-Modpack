@@ -1,0 +1,16 @@
+{
+	x: -6.5d,
+	y: 9.5d,
+	shape: "rsquare",
+	dependencies: [
+		"afd6b493"
+	],
+	optional: true,
+	tasks: [{
+		uid: "a9527daa",
+		type: "item",
+		items: [{
+			item: "primal:ore_cluster_bog_iron"
+		}]
+	}]
+}

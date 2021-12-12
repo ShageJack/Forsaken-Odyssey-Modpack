@@ -1,0 +1,10 @@
+{
+	x: 2.0d,
+	y: 0.5d,
+	tasks: [{
+		uid: "a6870b79",
+		type: "checkmark",
+		title: "认识世界",
+		icon: "minecraft:bookshelf"
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: 16.0d,
+	y: -5.0d,
+	dependencies: [
+		"e62dc707",
+		"3556abc9"
+	],
+	tasks: [{
+		uid: "d4ed2f05",
+		type: "item",
+		items: [{
+			item: "contenttweaker:crackedchunkleadbronzemix"
+		}]
+	}]
+}

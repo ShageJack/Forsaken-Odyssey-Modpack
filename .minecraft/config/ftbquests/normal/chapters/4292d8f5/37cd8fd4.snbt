@@ -1,0 +1,15 @@
+{
+	x: 8.0d,
+	y: 1.0d,
+	dependencies: [
+		"861b9a77",
+		"ecbda2d2"
+	],
+	tasks: [{
+		uid: "c4a642c7",
+		type: "item",
+		items: [{
+			item: "contenttweaker:meshwet"
+		}]
+	}]
+}

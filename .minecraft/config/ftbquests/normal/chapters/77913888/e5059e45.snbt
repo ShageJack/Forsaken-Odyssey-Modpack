@@ -1,0 +1,21 @@
+{
+	x: 6.0d,
+	y: -0.5d,
+	dependencies: [
+		"15445db3"
+	],
+	tasks: [{
+		uid: "336a6df0",
+		type: "item",
+		items: [{
+			id: "horsepower:chopper",
+			tag: {
+				textureBlock: {
+					id: "minecraft:log",
+					Count: 1b,
+					Damage: 0s
+				}
+			}
+		}]
+	}]
+}

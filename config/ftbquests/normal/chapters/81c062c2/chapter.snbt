@@ -1,7 +1,0 @@
-{
-	title: "P-O 有机合成",
-	icon: "gregtech:meta_item_1 1 19141",
-	always_invisible: false,
-	group: -1092739539,
-	default_quest_shape: ""
-}

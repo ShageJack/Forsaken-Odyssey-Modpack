@@ -1,0 +1,15 @@
+{
+	x: 4.5d,
+	y: -4.5d,
+	shape: "hexagon",
+	dependencies: [
+		"ae857f62"
+	],
+	tasks: [{
+		uid: "40a18b99",
+		type: "item",
+		items: [{
+			item: "primal_tech:plant_fibres"
+		}]
+	}]
+}
