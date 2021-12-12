@@ -14,7 +14,7 @@ Currently, this modpack is still at an early stage of development. And the major
 
 ***Story***
 
-Different from most other modpack, Forsaken Odyssey has a complicated and grand background story, which is blended into gameplay in many ways. We attempt to describe a dead world that used to be vibrant, full of contradictions and struggles, misery and pain, dramatic conflicts, and even multiple revolutions, while players are silent observers to all happenings that now have been meaningless. They have faded away, covered with weeds, erased by the might of nature, only whose scars remained. 
+Different from most other modpacks, Forsaken Odyssey has a complicated and grand background story, which is blended into gameplay in many ways. We attempt to describe a dead world that used to be vibrant, full of contradictions and struggles, misery and pain, dramatic conflicts, and even multiple revolutions, while players are silent observers to all happenings that now have been meaningless. They have faded away, covered with weeds, erased by the might of nature, only whose scars remained. 
 
 We are just narrators. We can imply our own idea or maybe ideology in our stories, but the true message of the story will only emerge in the flood of reflection, which belongs to you people, the audience.
 
