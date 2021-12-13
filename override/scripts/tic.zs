@@ -104,8 +104,9 @@ mods.tconstruct.Drying.removeRecipe(<tconstruct:materials:2>);
 
 HighOven.removeFuel(<*>);
 
-HighOven.addFuel(<gregtech:meta_item_1:8357>, 1600, 1);
-HighOven.addFuel(<gregtech:meta_block_compressed_22:5>, 14400, 1);
+HighOven.addFuel(<gregtech:meta_item_1:8357>, 3200, 1);
+HighOven.addFuel(<gregtech:meta_block_compressed_22:5>, 28800, 1);
+HighOven.addFuel(<minecraft:charcoal>, 800, 1);
 
 HighOven.addMeltingOverride(<liquid:moltenironimpure> * 32, <shagecraft:cut_iron_rubbish>, 1811);
 HighOven.addMeltingOverride(<liquid:moltenironimpure> * 144, <gregtech:meta_item_1:4033>, 1811);
